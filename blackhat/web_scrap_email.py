@@ -39,7 +39,7 @@ def input_url():
         elif choice == 'c':
             input_url()
         else:
-            print("[*] You didn't enter a valid key, Exiting from program...!!!!!")
+            print("[!] You didn't enter a valid key, Exiting from program...!!!!!")
 
 
 input_url()
